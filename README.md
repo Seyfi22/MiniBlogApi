@@ -1,4 +1,4 @@
-# 📰 MiniBlog API
+# 📰 Mini Blog API
 
 This is a simple **Mini Blog API** project built with **ASP.NET Core** and **Entity Framework Core**.  
 It allows you to create, read, update, and delete **articles** and **categories**.
@@ -10,6 +10,12 @@ It allows you to create, read, update, and delete **articles** and **categories*
 - CRUD operations for Articles  
 - Works with SQL Server  
 - Tested with Swagger and Postman  
+
+---
+
+## ✨ Notes
+- Used **DTOs (Data Transfer Objects)** for transferring data between API and client  
+- Manual mapping was used for converting Entities ↔ DTOs (before learning AutoMapper)  
 
 ---
 

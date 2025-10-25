@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xyWFlRPi2G6Z1C9DgfYcVPtgVdVWHHmoBLoR9U9SL3I=",
+  "Source": "MiniBlogApi",
+  "BasePath": "_content/MiniBlogApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
